@@ -1,0 +1,6 @@
+"/Users/yannis/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/yannis/Documents/cpp-projects/nft-game
+[STATUS]SDL2_INCLUDE_DIR : /opt/homebrew/Cellar/sdl2/2.0.16/include/SDL2/opt/homebrew/include/SDL2/opt/homebrew/include/SDL2
+[STATUS]SDL2_LIBRARY :/opt/homebrew/lib/libSDL2.dylib/opt/homebrew/lib/libSDL2_image.dylib/opt/homebrew/lib/libSDL2_ttf.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yannis/Documents/cpp-projects/nft-game/bin/release
